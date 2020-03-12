@@ -1,0 +1,11 @@
+D:\CodeGym\Practice\dotnet-IndexOutOfRangeException\bin\Debug\netcoreapp3.1\dotnet-IndexOutOfRangeException.exe
+D:\CodeGym\Practice\dotnet-IndexOutOfRangeException\bin\Debug\netcoreapp3.1\dotnet-IndexOutOfRangeException.deps.json
+D:\CodeGym\Practice\dotnet-IndexOutOfRangeException\bin\Debug\netcoreapp3.1\dotnet-IndexOutOfRangeException.runtimeconfig.json
+D:\CodeGym\Practice\dotnet-IndexOutOfRangeException\bin\Debug\netcoreapp3.1\dotnet-IndexOutOfRangeException.runtimeconfig.dev.json
+D:\CodeGym\Practice\dotnet-IndexOutOfRangeException\bin\Debug\netcoreapp3.1\dotnet-IndexOutOfRangeException.dll
+D:\CodeGym\Practice\dotnet-IndexOutOfRangeException\bin\Debug\netcoreapp3.1\dotnet-IndexOutOfRangeException.pdb
+D:\CodeGym\Practice\dotnet-IndexOutOfRangeException\obj\Debug\netcoreapp3.1\dotnet-IndexOutOfRangeException.csprojAssemblyReference.cache
+D:\CodeGym\Practice\dotnet-IndexOutOfRangeException\obj\Debug\netcoreapp3.1\dotnet-IndexOutOfRangeException.AssemblyInfoInputs.cache
+D:\CodeGym\Practice\dotnet-IndexOutOfRangeException\obj\Debug\netcoreapp3.1\dotnet-IndexOutOfRangeException.AssemblyInfo.cs
+D:\CodeGym\Practice\dotnet-IndexOutOfRangeException\obj\Debug\netcoreapp3.1\dotnet-IndexOutOfRangeException.dll
+D:\CodeGym\Practice\dotnet-IndexOutOfRangeException\obj\Debug\netcoreapp3.1\dotnet-IndexOutOfRangeException.pdb
